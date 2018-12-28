@@ -1,0 +1,2 @@
+# starsafelink
+file star safelink
